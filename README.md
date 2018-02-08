@@ -1,4 +1,4 @@
-![ProjectHED](https://uwaa.moe/i/FCC0CqD)  
+![ProjectHED](https://i.imgur.com/jGVpNyS.png)  
 [![Travis](https://img.shields.io/travis/MoeChezzy/ProjectHED.svg)](https://travis-ci.org/MoeChezzy/ProjectHED) [![Github All Releases](https://img.shields.io/github/downloads/MoeChezzy/ProjectHED/total.svg)](https://github.com/MoeChezzy/ProjectHED) [![Kawaii Status](https://img.shields.io/badge/status-kawaii-ffbaff.svg)](https://github.com/MoeChezzy/ProjectHED)  
 
 ![konachan](https://img.shields.io/badge/konachan-available-brightgreen.svg) ![safebooru](https://img.shields.io/badge/safebooru-available-brightgreen.svg)  ![yandere](https://img.shields.io/badge/yandere-available-brightgreen.svg) ![gelbooru](https://img.shields.io/badge/gelbooru-available-brightgreen.svg) ![danbooru](https://img.shields.io/badge/danbooru-available-brightgreen.svg)  
